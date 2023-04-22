@@ -1,0 +1,112 @@
+.add-products{
+    width: 47%;
+    margin: 40px auto;
+    margin-bottom: 0;
+    border:4px solid;
+    padding: 2.2rem;
+    padding-bottom: 0;
+    border-radius: 12px;
+    position: relative;
+    font-size: 1.1em;
+    font-weight: 700;
+}
+.add-products h2{
+    font-size: 1.7em;
+    color: rgb(2, 65, 2);
+    display: inline;
+    font-weight: bold;
+    border: 6px solid;
+    padding: 4px 12px;
+    border-radius: 36px;
+}
+::placeholder {
+    color: black;
+}
+.force-opaque::placeholder {
+    opacity: 1;
+}
+.add-products div{
+    margin: 15px auto;
+}
+.add-products input,.add-products textarea{
+    margin: 10px 0;
+    width: 50%;
+    border: 2px solid;
+    border-radius: 5px;
+    padding: 8px;
+    font-size: 1.1em;
+}
+.add-products input[type=submit]{
+    width: 20%;
+    margin-top: 0;
+    margin-bottom: 20px;
+    background-color: green;
+    color: white;
+    border-radius: 6px;
+    border: none;
+    transition: 0.5s ease;
+}
+.add-products input[type=submit]:hover{
+    background-color: rgba(0, 128, 0,0.85);
+}
+.price-input{
+    position: relative;
+}
+.price-input input{
+    padding-left: 25px;
+    width:47.5%;
+}
+.price-input::before{
+    position: absolute;
+    top:-3px;
+    content: "₹";
+    left:10px;
+    font-size: 1.2em;
+}
+input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button {  
+   opacity: 1;
+}
+.add-products img{
+    position: absolute;
+    top:18%;
+    right:12px;
+}
+.stock{
+    width:47%;
+}
+.category-select,.brand-select{
+    width:52.7%;
+    margin: 10px 0;
+    border: 2px solid;
+    border-radius: 5px;
+    padding: 8px;
+    font-size: 1.1em;
+}
+@media screen and (max-width:1300px){
+    .add-products{
+        width: 60%;
+    }
+}
+@media screen and (max-width:1100px){
+    .add-products{
+        width: 65%;
+    }
+}
+@media screen and (max-width:1000px){
+    .add-products{
+        width: 65%;
+    }
+    .add-products img{
+        opacity: 0;
+    } 
+    .add-products input,.add-products textarea{
+        width: 90%;
+    }
+    .price-input input{
+        width:87.5%;
+    }
+    .add-products h2{
+        margin-bottom: 20px;
+    }
+}

@@ -1,0 +1,27 @@
+DISPLAY
+https://www.amazon.in/Stillersafe-Zero-Eye-StrainTM-Removable/dp/B01MY5QDHG?ref_=Oct_d_omwf_d_4269662031_0&pd_rd_w=mXUwT&content-id=amzn1.sym.6d8b4c85-c42f-41da-9f50-11046aea6bae&pf_rd_p=6d8b4c85-c42f-41da-9f50-11046aea6bae&pf_rd_r=PHQ06TG52D4168PK56SR&pd_rd_wg=akqmI&pd_rd_r=6504c223-ef45-45f1-aaf8-aa87f4866d1f&pd_rd_i=B01MY5QDHG
+https://www.amazon.in/Lenovo-Replacement-Screen-G50-30-G50-45/dp/B010GGJ7B0?ref_=Oct_d_omwf_d_4269662031_1&pd_rd_w=mXUwT&content-id=amzn1.sym.6d8b4c85-c42f-41da-9f50-11046aea6bae&pf_rd_p=6d8b4c85-c42f-41da-9f50-11046aea6bae&pf_rd_r=PHQ06TG52D4168PK56SR&pd_rd_wg=akqmI&pd_rd_r=6504c223-ef45-45f1-aaf8-aa87f4866d1f&pd_rd_i=B010GGJ7B0
+
+KEYBOARD
+https://www.amazon.in/Dell-KB216-Wired-Multimedia-Keyboard/dp/B00ZYLMQH0/ref=sr_1_3?crid=31LPSRQTJDCOD&keywords=keyboard&qid=1676550274&s=computers&sprefix=%2Ccomputers%2C1264&sr=1-3
+https://www.amazon.in/HP-Ergonomically-Connection-Indicator-664R5AA/dp/B0B71WT5XT/ref=sr_1_2_sspa?crid=31LPSRQTJDCOD&keywords=keyboard&qid=1676550274&s=computers&sprefix=%2Ccomputers%2C1264&sr=1-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1
+https://www.amazon.in/Zebronics-Keyboard-keystrokes-Comfortable-Retractable/dp/B0B29G5SSW/ref=sr_1_6?crid=31LPSRQTJDCOD&keywords=keyboard&qid=1676550274&s=computers&sprefix=%2Ccomputers%2C1264&sr=1-6
+https://www.amazon.in/Dell-Wireless-Keyboard-Mouse-Spill-Resistant/dp/B09T3H12GV/ref=sr_1_11?crid=31LPSRQTJDCOD&keywords=keyboard&qid=1676550274&s=computers&sprefix=%2Ccomputers%2C1264&sr=1-11
+
+TOUCHPAD
+https://www.amazon.in/Saco-Transparent-Touchpad-Protector-Laptops/dp/B01MRR9S4T/ref=sr_1_14?crid=ADPMHW57D8B3&keywords=touch+pad+for+laptop&qid=1676552070&sprefix=touch+for+laptop%2Caps%2C895&sr=8-14
+
+HARD DRIVE
+https://www.amazon.in/Seagate-Laptop-2-5-Inch-Internal-ST1000LM048/dp/B01LY3Q201/ref=sr_1_1_sspa?keywords=hard+drive+for+laptop&qid=1676551882&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1
+
+PENDRIVE
+https://www.amazon.in/SanDisk-Cruzer-Blade-Flash-Drive/dp/B005FYNT3G/ref=sr_1_3?crid=25OUBOPZ9TMPB&keywords=pendrive&qid=1676553764&sprefix=pendriv%2Caps%2C1160&sr=8-3
+https://www.amazon.in/HP-v236w-64GB-USB-Drive/dp/B01L8ZNWN2/ref=sr_1_4?crid=25OUBOPZ9TMPB&keywords=pendrive&qid=1676553764&sprefix=pendriv%2Caps%2C1160&sr=8-4
+
+MOUSE
+https://www.amazon.in/Logitech-B170-Wireless-Mouse-Black/dp/B01J0XWYKQ/ref=sr_1_3?crid=111OZHW01U1Q6&keywords=wireless+mouse&qid=1676555177&sprefix=pendrive%2Caps%2C5596&sr=8-3
+https://www.amazon.in/Portronics-Wireless-Optical-Orientation-Adjustable/dp/B0B296NTFV/ref=sr_1_4?crid=111OZHW01U1Q6&keywords=wireless%2Bmouse&qid=1676555177&sprefix=pendrive%2Caps%2C5596&sr=8-4&th=1
+
+
+Sang@hk23
+demo@123
