@@ -17,6 +17,9 @@ if(!isset($_SESSION)){
     <link rel="shortcut icon" href="images/logo.png" type="image/x-icon">
     <title>Lapzy for you!</title>
     <style>
+        header li{
+            font-size: 1.05em;
+        }
         .header-nav-border{
             position: relative;
         }

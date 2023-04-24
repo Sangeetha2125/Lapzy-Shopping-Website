@@ -10,7 +10,8 @@ if(isset($_GET['logout'])){
     header('location:index.php');
 }
 
-function sendMail($mail_product_name){
+function sendMail($mail_product_name,$mail_stock){
+    global $conn;
     $subject='Lapzy - Out of Stock';
     $body="<div style='font-size:1.35em;color:black;text-align:justify'>Respected Sir,<br><div style='text-indent:55px'>The customers are truly satisfied by the products in our website and the demand is increasing day by day sir. The stock for the product <b style= 'color:darkblue' >$mail_product_name</b> has decreased sir. I request that we increase the stock for this product, making sure that our customer's needs will be satisfied in future.</div><br>Regards<br>Sangeetha G<br><b><div style='color:green'>Lapzy Admin</div></b></div>";
 
@@ -34,7 +35,8 @@ function sendMail($mail_product_name){
     $mail->Body=$body;
 
     if($mail->send()){
-        echo "";
+        $insert_mail="insert into mail(product_name,stock,from_address,to_address) values('$mail_product_name',$mail_stock,'lapzymanager@gmail.com','dealershoplap@gmail.com')";
+        $success_mail=mysqli_query($conn,$insert_mail);
     }
 }
 ?>
@@ -54,6 +56,9 @@ function sendMail($mail_product_name){
         const Swal=require('sweetalert2');      
     </script>
     <style>
+        header li{
+            font-size: 1.05em;
+        }
         .table{
             border-radius: 12px;
             border:3px solid;
@@ -276,7 +281,7 @@ function sendMail($mail_product_name){
             $mail_product_stock=$mail_product['stock'];
 
             if($mail_product_stock<5){
-                sendMail($mail_product_name);
+                sendMail($mail_product_name,$mail_product_stock);
             }
         }
         else if($available_stock==0){
@@ -387,7 +392,7 @@ function sendMail($mail_product_name){
                     $pname=$updated_product['name'];
                     $updated_stock=$updated_product['stock'];
                     if($updated_stock<5){
-                        sendMail($pname);
+                        sendMail($pname,$updated_stock);
                     }
 
                     echo "<script>window.location.href='cart.php';</script>";    

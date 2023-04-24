@@ -30,6 +30,9 @@ if(isset($_GET['logout'])){
         const Swal=require('sweetalert2');
     </script>
     <style>
+        header li{
+            font-size: 1.05em;
+        }
         .header-nav-border{
             position: relative;
         }
